@@ -42,4 +42,5 @@ int main() {
 	}
 	if(flag) cout<<"valid";
 	else cout<<"invalid";
+	return 0;
 }
